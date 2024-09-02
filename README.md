@@ -47,7 +47,7 @@ I am a seasoned Software Developer with 8 years of industry experience, speciali
 
 ## 📫 How to reach me
 
-- LinkedIn: [Enrique Delgado Tecayehuatl](https://www.linkedin.com/in/mariatecayehuatl)
+- LinkedIn: [Enrique Delgado Tecayehuatl](https://www.linkedin.com/in/enriqueecayehuatl)
 - Email: enrique.delgado@live.com
 
 ---
