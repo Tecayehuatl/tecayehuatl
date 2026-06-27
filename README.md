@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ## 🧑‍💻 About Me
 
-I am a seasoned Software Developer with 8 years of industry experience, specializing in crafting code solutions for high-demand environments. My passion lies in collaborating with individuals and organizations, leveraging my skills to architect world-class, impactful, and aesthetically pleasing products that drive meaningful change.
+I am a seasoned Software Developer with 10 years of industry experience, specializing in crafting code solutions for high-demand environments. My passion lies in collaborating with individuals and organizations, leveraging my skills to architect world-class, impactful, and aesthetically pleasing products that drive meaningful change.
 
 ---
 
